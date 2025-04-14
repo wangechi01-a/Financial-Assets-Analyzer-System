@@ -3,7 +3,7 @@
 Smart Trading Assistant is an application that performs technical analysis and generates trading recommendations for both stocks and cryptocurrencies. 
 It combines financial data, deep learning (LSTM), and large language models to deliver intelligent insights and portfolio suggestions.
 
-Demo(![Image](https://github.com/user-attachments/assets/bfdb153c-f299-4b3b-840e-51d547a1dd0e))
+([Video](https://github.com/user-attachments/assets/8864f275-c03e-4246-8d16-b1a81e788952))
 
 ## Features
 
